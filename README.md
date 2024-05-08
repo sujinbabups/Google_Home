@@ -9,5 +9,5 @@ This project is a simple replica of the Google homepage, created using HTML and 
 
 
 Technologies Used
-->HTML5
+->HTML5  
 ->CSS3
